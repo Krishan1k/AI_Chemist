@@ -43,7 +43,7 @@
 
 <ol>
     <li><strong>Clone the repository:</strong></li>
-    <pre><code>git clone https://github.com/Sawanmahna/AI_Chemist.git
+    <pre><code>git clone https://github.com/Krishan1k/AI_Chemist.git
 cd AI_Chemist
 </code></pre>
     <li><strong>Install dependencies:</strong></li>
